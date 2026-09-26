@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "headers": [
+    { "source": "/eugm-adatok.json", "headers": [{ "key": "Cache-Control", "value": "no-cache" }] },
+    { "source": "/", "headers": [{ "key": "Cache-Control", "value": "no-cache" }] }
+  ]
+}
