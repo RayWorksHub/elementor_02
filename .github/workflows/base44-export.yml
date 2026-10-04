@@ -1,0 +1,56 @@
+name: EUGM Base44 editorial import
+on:
+  push:
+    branches: [base44-editorial-import-20261004]
+    paths:
+      - '.base44-import/source-*.b64'
+      - '.base44-import/build.py'
+      - '.base44-import/qa.py'
+      - '.github/workflows/base44-export.yml'
+permissions:
+  contents: write
+concurrency:
+  group: eugm-base44-editorial-import
+  cancel-in-progress: true
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install asset and browser tooling
+        run: |
+          python -m pip install requests pillow beautifulsoup4 playwright
+          python -m playwright install --with-deps chromium
+      - name: Embed approved design, source text and real images
+        run: python .base44-import/build.py
+      - name: Verify desktop, mobile and all routes without external image hosts
+        run: python .base44-import/qa.py
+      - name: Browser snapshot of the importable homepage
+        run: |
+          python -m http.server 8766 --bind 127.0.0.1 > /tmp/eugm-preview.log 2>&1 &
+          BROWSER_PATH=$(python -c 'from playwright.sync_api import sync_playwright; p=sync_playwright().start(); print(p.chromium.executable_path); p.stop()')
+          npx --yes agent-browser --executable-path "$BROWSER_PATH" open http://127.0.0.1:8766/.base44-import/export.html
+          npx --yes agent-browser snapshot -i > .base44-import/browser-snapshot.txt
+          npx --yes agent-browser close
+      - name: Save verified public HTML for Base44 import
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .base44-import/export.html .base44-import/manifest.json .base44-import/qa.json .base44-import/browser-snapshot.txt
+          git commit -m 'publish verified self-contained editorial HTML for Base44 import [skip ci]'
+          git push origin HEAD:base44-editorial-import-20261004
+      - name: Preserve QA screenshots and import package
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eugm-base44-editorial-import
+          include-hidden-files: true
+          path: |
+            .base44-import/export.html
+            .base44-import/manifest.json
+            .base44-import/qa.json
+            .base44-import/image-errors.json
+            .base44-import/desktop.png
+            .base44-import/mobile.png
+            .base44-import/browser-snapshot.txt
