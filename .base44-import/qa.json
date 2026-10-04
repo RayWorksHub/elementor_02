@@ -1,0 +1,640 @@
+{
+  "passed": true,
+  "routes_tested": 30,
+  "javascript_errors": [],
+  "external_images_required": false,
+  "results": [
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 7691,
+      "images": [
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "index"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 3361,
+      "images": [
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "gazdasag"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 3046,
+      "images": [
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "europai-unio"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 2684,
+      "images": [
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "gm-elet"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 4241,
+      "images": [
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "vallalkozoihid"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 4985,
+      "images": [
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "digitalis-lendulet"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 4120,
+      "images": [
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "hirek"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 9260,
+      "images": [
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "cikk"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 4139,
+      "images": [
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "magazin-story"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 3237,
+      "images": [
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "magazin"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 1494,
+      "images": [],
+      "route": "lapozo"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 3007,
+      "images": [
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "uzleti-partnerinfo"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 925,
+      "images": [],
+      "route": "kapcsolat"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 2015,
+      "images": [],
+      "route": "impresszum"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "text": 2881,
+      "images": [],
+      "route": "adatvedelem"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 7691,
+      "images": [
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "index"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 3361,
+      "images": [
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "gazdasag"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 3046,
+      "images": [
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "europai-unio"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 2684,
+      "images": [
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "gm-elet"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 4241,
+      "images": [
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "vallalkozoihid"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 4985,
+      "images": [
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "digitalis-lendulet"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 4120,
+      "images": [
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Építészet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Modern irodai környezet — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "hirek"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 9260,
+      "images": [
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        },
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "cikk"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 4139,
+      "images": [
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "magazin-story"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 3237,
+      "images": [
+        {
+          "alt": "Szerkesztőségi munka — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "magazin"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 1494,
+      "images": [],
+      "route": "lapozo"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 3007,
+      "images": [
+        {
+          "alt": "Közös irodai munkavégzés — fotóillusztráció",
+          "ok": true,
+          "embedded": true
+        }
+      ],
+      "route": "uzleti-partnerinfo"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 925,
+      "images": [],
+      "route": "kapcsolat"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 2015,
+      "images": [],
+      "route": "impresszum"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "text": 2881,
+      "images": [],
+      "route": "adatvedelem"
+    }
+  ]
+}

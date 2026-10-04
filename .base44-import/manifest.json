@@ -1,0 +1,63 @@
+{
+  "original_html_sha256": "fd8c1bba4bc9ebe3bf69d63f14fba1050e731c1d1bd1e31bd65bb32abb6d8696",
+  "pages": 15,
+  "images": [
+    {
+      "url": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1400&q=82",
+      "dimensions": [
+        1400,
+        933
+      ],
+      "bytes": 67262
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=82",
+      "dimensions": [
+        1400,
+        935
+      ],
+      "bytes": 82096
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1400&q=82",
+      "dimensions": [
+        1400,
+        934
+      ],
+      "bytes": 105210
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1400&q=82",
+      "dimensions": [
+        1400,
+        933
+      ],
+      "bytes": 193106
+    }
+  ],
+  "bundle_bytes": 915744,
+  "all_displayed_images_embedded": true,
+  "unavailable_original_document_assets": {
+    "https://grafcom.hu/_eugm/assets/images/cikkek/ovari-laszlo-avatar-220.webp": "Óvári László — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/lapszamok/2018-11/borito.webp": "A 2018. november lapszám borítója — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/lapszamok/2016-12/borito.webp": "A(z) 2016. december – január lapszám borítója — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/lapszamok/2009-01/borito.webp": "A(z) 2009. január lapszám borítója — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/lapszamok/2005-11/borito.webp": "A(z) 2005. november lapszám borítója — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/partnerek/europai-unio-420.webp": "Európai Unió — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/partnerek/magyarorszag-kormanya-420.webp": "Magyarország Kormánya — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/partnerek/szechenyi-terv-plusz-420.webp": "Széchenyi Terv Plusz — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/partnerek/gfu-420.webp": "Magyar Gazdaságfejlesztési Ügynökség — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/partnerek/vosz-420.webp": "VOSZ — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/gmelet-logo.png": "GmÉlet — az Új Európai Gazdasági Magazin rovata — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/vhp-logo-560.png": "Vállalkozói Híd Projekt embléma — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/cikkek/ovari-laszlo-320.webp": "Óvári László — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/dsp-logo-feher.png": "Demján Sándor Program logó — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/neum-logo-feher.png": "Neumann János Nonprofit Közhasznú Kft. logó — az eredeti képfájl jelenleg nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/eugm-logo.png": "Eredeti arculati vagy dokumentumkép — a forráskép nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/eugm-logo-mini.png": "Eredeti arculati vagy dokumentumkép — a forráskép nem elérhető.",
+    "https://grafcom.hu/_eugm/assets/images/eugm-logo-light.png": "Eredeti arculati vagy dokumentumkép — a forráskép nem elérhető."
+  },
+  "original_homepage_images_found": [],
+  "original_production_unchanged": true,
+  "forms_connected": false
+}
